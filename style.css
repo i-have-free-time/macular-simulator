@@ -21,7 +21,7 @@ html, body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 52.5vmin;
+  width: 28vmin;
   height: auto;
   pointer-events: none;
   z-index: 2;
